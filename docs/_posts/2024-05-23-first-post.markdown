@@ -2,7 +2,6 @@
 layout: post
 title:  "My introduction to Jekyll"
 date:   2024-05-23 21:00:00 -0700
-categories: learning software libraries github
 ---
 
 Seems only fitting that the first post on here should be about the thing used to create the site! Although peripherally aware of Jekyll through various GitHub docs, I hadn't used it myself. All in, it took about 30 minutes to set up.
