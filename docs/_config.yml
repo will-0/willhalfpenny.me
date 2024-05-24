@@ -22,9 +22,7 @@ title: willhalfpenny.me
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   A site for the projects, musings and learnings of Will Halfpenny.
-domain: will-0.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://will-0.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /willhalfpenny.me/      # place folder name if the site is served in a
+url: https://www.willhalfpenny.me  # the base hostname and protocol for your site, e.g. http://example.com
 github_username:  will-0
 linkedin_username: willhalfpenny
 
