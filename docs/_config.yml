@@ -22,8 +22,8 @@ title: willhalfpenny.me
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   A site for the projects, musings and learnings of Will Halfpenny.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://willhalfpenny.me" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/willhalfpenny.me" # the subpath of your site, e.g. /blog
+url: "https://will-0.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  will-0
 linkedin_username: willhalfpenny
