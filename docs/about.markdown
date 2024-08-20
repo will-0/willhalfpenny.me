@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Welcome! My name is Will, and the purpose of this website is to start hosting some of my thoughts, documenting some of my projects, and generally 'build in public'.
-
 ## Why have I made this?
 
 I've never been particularly adept at using social media, having often seen more of the negatives than the positives. However, in recent years, I have been inspired by many examples of the online community using social media in a productive way, for connecting across boundaries and sharing knowledge.
