@@ -20,3 +20,7 @@ I'm interested in how we can acquire, represent, transform and use data. I discu
 ## What am I currently working on?
 
 My current main focus is a startup project called build [Finomics](https://finomics.app), an assistant for healthcare workers that I'm building with [Laz Ranasinghe](https://www.linkedin.com/in/lasith-ranasinghe/).
+
+## How can I get in touch?
+
+I'm always happy to have people reach out. You can get in touch by email at (hello@willhalfpenny.me)[mailto:hello@willhalfpenny.me], or through [LinkedIn](https://www.linkedin.com/in/willhalfpenny/).

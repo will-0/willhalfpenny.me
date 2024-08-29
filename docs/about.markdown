@@ -16,6 +16,4 @@ I anticipate that these posts will most cover topics in computer, data and cogni
 
 ## Commenting and feedback
 
-I am yet to set up a mechanism for this, but if you would like to get in touch please reach out to me on [LinkedIn](https://www.linkedin.com/in/willhalfpenny/).
-
-Thanks!
+If you would like to get in touch please reach out to me by email at (hello@willhalfpenny.me)[mailto:hello@willhalfpenny.me], or through [LinkedIn](https://www.linkedin.com/in/willhalfpenny/). Thanks!
