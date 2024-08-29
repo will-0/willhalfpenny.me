@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Role of Context in Data and Communication"
-date:   2024-05-23 21:00:00 +0100
+date:   2024-08-23 21:00:00 +0100
 ---
 
 ## Introduction
