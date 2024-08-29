@@ -20,8 +20,6 @@ Context is also helpful for other reasons in language, such as the following, al
 -	Allows listener to filter out irrelevant information
 -	Several human-factors roles (e.g. instigating the end of a party without offending)
 -	Facilitate unspoken inferences to be made faster.
--	Several human-factors roles (e.g. instigating the end of a party without offending)
--	Facilitate unspoken inferences to be made faster.
 
 ## What is the role of context in data?
 
