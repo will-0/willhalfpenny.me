@@ -6,9 +6,9 @@ permalink: /about/
 
 ## Why have I made this?
 
-I've never been particularly adept at using social media, having often seen more of the negatives than the positives. However, in recent years, I have been inspired by many examples of the online community using social media in a productive way, for connecting across boundaries and sharing knowledge.
+I've never been particularly adept at using social media, having often seen more of the negatives than the positives. However, in recent years, I have been inspired by many examples of the online community using social media in a productive way. These people used social media in the way I believe it should be: for connecting across boundaries and sharing knowledge.
 
-Whilst I will occasionally share projects on here, it is mainly a forum for thought and learning. For myself, these posts will act as an exercise in the [Feynman technique](https://en.wikipedia.org/wiki/Learning_by_teaching), and in improving my much-neglected English writing skills. Hopefully they may also be helpful and/or insightful to others.
+Whilst I will sometimes share projects on here, this site is mainly a forum for sharing thoughts and learnings. For myself, these posts will act as an exercise in the [Feynman technique](https://en.wikipedia.org/wiki/Learning_by_teaching). Hopefully they may also help or inspire others.
 
 ## Topics
 
