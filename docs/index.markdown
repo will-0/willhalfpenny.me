@@ -15,11 +15,11 @@ By day, I work at Chelsea and Westminster hospital as an FY1 (first-year residen
 
 ## What field am I interested in?
 
-As above, I'm currently interested in how we can acquire, represent, transform and use data. I discuss these topics in my [blog posts](/blog). However, I've previously explored several areas, and have worked on brain-machine interfaces, machine learning and observational research. I'm also interested in startups, having helped found (Synapcard)[https://chromewebstore.google.com/detail/synapcard/cimngaoenacpjfodphiokngpleelamei?hl=en-GB&pli=1] and [Finomics](https://finomics.app).
+As above, I'm currently interested in how we can acquire, represent, transform and use data. I discuss these topics in my [blog posts](/blog). However, I've previously explored several areas, and have worked on brain-machine interfaces, machine learning and observational research. I'm also interested in startups, having helped found [Synapcard](https://chromewebstore.google.com/detail/synapcard/cimngaoenacpjfodphiokngpleelamei?hl=en-GB&pli=1) and [Finomics](https://finomics.app).
 
 ## What am I currently working on?
 
-My current main focus is a startup project called [Finomics](https://finomics.app), an assistant for healthcare workers. I'm building this with [Laz Ranasinghe](https://www.linkedin.com/in/lasith-ranasinghe/).
+My current main focus is a startup project called [Finomics](https://finomics.app), a platform to demystify pay for NHS workers.
 
 ## How can I get in touch?
 
