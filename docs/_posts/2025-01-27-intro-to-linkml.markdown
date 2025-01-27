@@ -4,9 +4,11 @@ title:  "Introduction to LinkML"
 date:   2025-01-27 15:00:00 +0000
 ---
 
-Whilst trying to build an [open-source data model for NHS pay](https://github.com/finomics-ltd/nhs-pay-ontology), I was stumped that there wasn't a good modelling language that could serialize into all the other common formats (JSON-schema, DDL, Pydantic, OWL, etc) that developers use. If I was going to write a general-purpose, interoperable framework, would I really have to make the choice for the downstream developer about which technology to use?
+Whilst trying to define an [open-source data model for NHS pay](https://github.com/finomics-ltd/nhs-pay-ontology), I was initally stumped on which technology to use. I wanted to build something that would support downstream developers, regardless of their preferred tech stacks, trying to build a 'general purpose', abstract data model.
 
-Turns out, there was such a modelling language, and I'm super excited about it! Enter, [LinkML](https://linkml.io/).
+As I was weighing up the pros and cons of things like JSON-schema, Pydantic and OWL (among others), I kept lamenting the following: given all of these data formats are conceptually interoperable, why on earth hadn't someone built a good modelling language that could serialize into all the other formats?
+
+Turns out, someone had! Enter, [LinkML](https://linkml.io/) - exactly what I'd been looking for.
 
 ## [LinkML](https://linkml.io/) features
 
@@ -20,13 +22,11 @@ One of the first exercises in the documentation walks you through creation of a 
 
 ### Easy transformations
 
-In the same step (within ~1 minute's worth of reading) you've already got to the next feature, where you can translate a object in one format (e.g. JSON) into another (e.g. RDF Turtle), with a single command. 
-
-It brought a tear to my eye.
+In the same step (within ~1 minute's worth of reading) you've already got to the next feature, where you can translate a object in one format (e.g. JSON) into another (e.g. RDF Turtle), with a single command. Cue a small tear being brought to my eye.
 
 ### Visualization
 
-Data visualization is, to me, a very important part of data modelling. As well as making it easier to communicate with domain experts (who may not be comfortable reading markup), it think it is a good cognitive aid in getting to grips with what we've built.
+Data visualization is, to me, a very important part of data modelling. As well as making it easier to communicate with domain experts that may not be comfortable reading markup, I also find it a good cognitive aid.
 
 LinkML allows you to easily create UML diagrams from a data model, such as the one below:
 
@@ -34,10 +34,10 @@ LinkML allows you to easily create UML diagrams from a data model, such as the o
 
 ### Semantic markup
 
-The final thing which I think is super exciting, is that LinkML provides you with the ability to back up your schema with semantic annotations. As mentioned [here](https://linkml.io/linkml/schemas/uris-and-mappings.html), all the elements of your schema (i.e. class and slot definitions) have a globally unique IRI/URI. This is either explicitly defined in the model, or implicity, using the default prefix.
+The final addition that one me over for LinkML, is that it provides you with the ability to back up your schema with semantic annotations. As mentioned [here](https://linkml.io/linkml/schemas/uris-and-mappings.html), all the elements of a LinkML schema (i.e. class and field definitions) have a globally unique IRI/URI. This is either explicitly defined by the authoring individual, or implicity, using the default prefix.
 
-The benefit of doing this may not be familiar to all readers, but it is significant in the semantic web and interoperability communities. To quickly summarize my view of it, URIs are just a way to *uniquely* label an arbitrary (or 'resource'). [This article](https://www.cogsci.ed.ac.uk/~ht/WhatAreURIs/) talks about it a bit more. It can be a bit meta, but it is pretty useful if you want to do entity resolution between databases, and it's great to have it as an option when defining a data model.
+The benefit of doing this may not be familiar to all readers, but it is core tenant of the semantic web community. URIs are just a way to *uniquely* label an arbitrary (or 'resource') which, among other things, is helpful for performing [entity resolution](https://en.wikipedia.org/wiki/Record_linkage). [This article](https://www.cogsci.ed.ac.uk/~ht/WhatAreURIs/) talks more about it for those that are interested.. It can be a bit meta, and not strictly necessary for many use cases, but it's great to have the option to expand the model with such annotations if needed.
 
 ## Conclusion
 
-Once again, it seems the biology community is crushing it with respect to developing data modelling and interoperability tools. I'm excited to be using LinkML in my projects, and imagine it will be a tool I stick with for a while.
+Once again, it seems the biology community is crushing it with respect to linked data tooling. I was unreasonably excited to discover LinkML, and imagine I will be using it in many projects down the line.
